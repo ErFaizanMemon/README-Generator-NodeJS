@@ -40,8 +40,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Deployment
 
-Webpage Link with Video Walkthrough - 
+Webpage Link with Video Walkthrough - https://erfaizanmemon.github.io/README-Generator-NodeJS/
 
-Github Link -
+Github Link - https://github.com/ErFaizanMemon/README-Generator-NodeJS
 
-Video Link - 
+Video Link - https://github.com/ErFaizanMemon/README-Generator-NodeJS/blob/master/Walkthrough.mp4
